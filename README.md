@@ -2,11 +2,9 @@
 
 This repository is based on https://aur.archlinux.org/packages/slack-desktop-wayland
 
-Currently it's out-of-date (since 2023-07-17) and the last update was 2023-05-29.
+Currently it's out-of-date (since 2024-02-01) and the last update was 2024-01-12.
 
 This repository only updates the .deb file that is downloaded from downloads.slack-edge.com.
-
-Also, this version fixes issues with screen sharing on Wayland.
 
 ## Install
 
